@@ -31,7 +31,7 @@ class BitcoinCharts {
     
     
     //API Configuration
-    const API_URL       = 'http://bitcoincharts.com/t/';
+    const API_URL       = 'http://api.bitcoincharts.com/v1/';
     const RESULT_FORMAT = 'array'; //default is 'json'
     const API_EXT       = '.json';
     const HISTORY_EXT   = '.csv';
