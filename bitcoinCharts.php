@@ -2,12 +2,14 @@
 /*
  * Bitcoin Charts API Library
  * 
- * @author    Brandon Beasley <http://brandonbeasley.com/>
+ * @author:   Brandon Beasley <http://brandonbeasley.com/>
+ * @modifier  Davy Moedbeck <http://www.megax.be/>
  * @copyright Copyright (C) 2011 Brandon Beasley
  * @license   GNU GENERAL PUBLIC LICENSE (Version 3, 29 June 2007)
  * 
  *          Please consider donating if you use this library:
- *            
+ *
+ *              1MegaXG1bd6mTEQCdAMjVzGexcYrF5LJKv
  *              1PPkz4tQepxyXiEf9xjyZS8cTkxN9Q6uPN
  * 
  *  This program is free software: you can redistribute it and/or modify
